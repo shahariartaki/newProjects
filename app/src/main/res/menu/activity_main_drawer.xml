@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_student_batch"
+            android:icon="@drawable/ic_batch"
+            android:title="Select Student Batch" />
+        <item
+            android:id="@+id/nav_notice_board"
+            android:icon="@drawable/ic_notice_board"
+            android:title="Notice Board" />
+        <item
+            android:id="@+id/nav_books"
+            android:icon="@drawable/ic_books"
+            android:title="Books" />
+        <item
+            android:id="@+id/faculty_members"
+            android:icon="@drawable/ic_faculy_member"
+            android:title="Faculty Members" />
+
+        <item
+            android:id="@+id/nav_bus"
+            android:icon="@drawable/ic_directions_bus"
+            android:title="Find Bus" />
+    </group>
+
+    <item android:title="Programming Tools">
+        <menu>
+            <item
+                android:id="@+id/nav_calculator"
+                android:icon="@drawable/ic_calculator"
+                android:title="Programming Calculator" />
+            <item
+                android:id="@+id/nav_convert"
+                android:icon="@drawable/ic_convert"
+                android:title="Programming Convertor" />
+        </menu>
+    </item>
+
+</menu>

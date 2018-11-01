@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">new Project</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="title">
+
+        <item>“Technology-Enabled Learning Strategies – How can We be Ready for Future”</item>
+        <item>Uttara University organized a seminar on “Role of Private University in Higher Education of Bangladesh” at Vashantek Govt. College, Dhaka</item>
+        <item>উত্তরা ইউনিভার্সিটিতে ইইই ও সিএসই ডিপার্টমেন্টের ওরিয়েন্টেশন</item>
+        <item>Institutional Quality Assurance Cell (IQAC) এর External peer reviewer (EPR) কর্তৃক তিন দিনব্যাপী সিএসই বিভাগ পরিদর্শন ও পর্যবেক্ষণ প্রসঙ্গে।</item>
+        <item>uttara university 6th Covocation Location Map</item>
+        <item>Holiday Notice for Durga Puja on 19.10.2018</item>
+        <item>Programming Fest’ Spring-18, Dept. of CSE</item>
+        <item>ষষ্ঠ সমাবর্তন 2018 সরাসরি সম্প্রচার প্রসঙ্গে বিজ্ঞপ্তি</item>
+        <item>Post Self-Assessment Improvement Plan For the Years 2018-2021 Department of CSE</item>
+        <item>Uttara University maintained programming contest progress in AUB IUPC ’18</item>
+
+
+    </string-array>
+
+
+    <string-array name="publishDate">
+
+        <item>Created on Monday, 22 October 2018 10:44</item>
+        <item>1.5.18</item>
+        <item>1.5.18</item>
+        <item>1.5.18</item>
+        <item>1.5.18</item>
+        <item>1.5.18</item>
+        <item>1.5.18</item>
+        <item>1.5.18</item>
+        <item>1.5.18</item>
+        <item>F1.5.18</item>
+
+
+    </string-array>
+
+    <string-array name="more">
+
+        <item>Director of the Office of Students Affairs (DOSA) of Uttara University organized a half-day workshop on “Technology-Enabled Learning Strategies – How can We be Ready for Future” for the Class Representative of BBA program of School of Business on 17 October 2018 Wednesday at 2:30pm at the IQAC Seminar Hall. The workshop was conducted by Professor Mostafa Azad Kamal, Dean of School of Business of Bangladesh Open University. At the certificate awarding ceremony, Prof. Dr. Eaysmin Ara Lekha, Pro Vice Chancellor of Uttara University was the Chief and Professor Dr. Nazrul Islam, Dean of School of Business of Uttara University was Special Guest. Director of DOSA, Dr. Zamanur Rahman presided over the certificate awarding ceremony. Faculty members of School of Business were also present in the ceremony. More than 40 Class Representatives of BBA Program of School of Business attended the workshop.</item>
+        <item>Uttara University organized a seminar on “Role of Private University in Higher Education of Bangladesh” at Vashantek Govt. College, Dhaka on 13 October 2018 Saturday at 11:30am at the College Auditorium. A team from Uttara University led by Professor Dr. Ayesha Begum, Chairman, Department of Bengali, Uttara University visited the College. Uttara University jointly organized this seminar with Vashantek Govt. College, Dhaka. The seminar was Chaired by Professor Mahmuda Khatun, Principal of Vashantek Govt. College, Dhaka. College faculty Ms. Nupur Akter and Ms. Atia Akter of Vashantek Govt. College supervised the whole program. Professor A K M Mozammel Haque was present as key discussant of the seminar. Professor Mamtaz Begum, Department of Bengali and Prof. Dr. Ayesha Begum, Chairman, Department of Bengali of Uttara University were present as discussant in the Seminar. They talked about the role of private university in higher education of Bangladesh. They focused on the quality issues of Uttara University education policy and the facilities for the students in higher education. The second session of the seminar was a discussion and question-answer session on “Bangla Banan (Spelling in Bengali words)” moderated by Mr. Samzid Ahmed, Senior Lecturer, Department of Bengali, Uttara University. Ms. Dulali Rani Saha, Assistant Professor, Department of Education anchored the seminar. Ms. Mahmuda Begum, Associate Professor, Department of Education, Md. Amzad Hossain, Assistant Professor, Department of Education and Muhammad Atiqur Rahman, Senior Lecturer, Department of Islamic Studies, Uttara University were present in the seminar. More than 300 HSC First year and Second year students and teachers of Vashantek Govt. College were present in the seminar.
+
+</item>
+        <item>.......</item>
+        <item>..........</item>
+        <item>...........</item>
+        <item>.......</item>
+        <item>........</item>
+        <item>.....</item>
+        <item>......</item>
+        <item>...........</item>
+
+
+    </string-array>
+
+
+    <string-array name="batch_name">
+
+        <item>46</item>
+        <item>45</item>
+        <item>43</item>
+        <item>42</item>
+        <item>41</item>
+        <item>42</item>
+        <item>41</item>
+        <item>39</item>
+        <item>38</item>
+        <item>37</item>
+        <item>36</item>
+        <item>35</item>
+
+
+    </string-array>
+
+    <string-array name="batch_section">
+
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+
+
+    </string-array>
+
+
+    <string-array name="semester_name">
+
+        <item>spring</item>
+        <item>Summer</item>
+        <item>Fall</item>
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Fall</item>
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Fall</item>
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Fall</item>
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Fall</item>
+
+
+
+
+    </string-array>
+
+    <string-array name="year">
+
+        <item>2014</item>
+        <item>2014</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2015</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2016</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2017</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+
+
+    </string-array>
+
+</resources>
